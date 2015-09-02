@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{9DA37CC7-0EBE-0F52-B50F-6270A2FD9403}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_2;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\S-Type\Database\DBFetchScores.cs" />
+     <Compile Include="Assets\S-Type\Database\DBInsertScore.cs" />
+     <Compile Include="Assets\S-Type\Database\DBTemplate.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\AudioManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\ContinueTextManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\DatabaseManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\DestroyParticles.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\EnemyTextManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\EnemyX.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\GameOverUIManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\InitialsTextManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\LeaderboardUIManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\PlayerTextManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\ScoreTextManager.cs" />
+     <Compile Include="Assets\S-Type\JustinsFolder\Scripts\StatisticsManager.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\BasicEnemy.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\DeactivateByTime.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\ElipticalPath.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\FallingMetSpawn.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\FallingObject.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\Follow.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\Follow2.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\Horiz.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\Opool.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\Oscillator.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\Projectile2.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\Rotate.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\ScrollingMeteor.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\SpawnObject.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\SpawnObjectHoriz.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\boss2.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\fireBat.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\fireBatGroup.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\fireEnemy2.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\fireEnemy3.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\fireMidBoss.cs" />
+     <Compile Include="Assets\S-Type\Marcos\script\level2MidBoss.cs" />
+     <Compile Include="Assets\S-Type\Marcus\Level 1\Enemy1GroupNoUpgrade.cs" />
+     <Compile Include="Assets\S-Type\Marcus\Scripts\PlantEnemy.cs" />
+     <Compile Include="Assets\S-Type\Marcus\Scripts\SwordRotate.cs" />
+     <Compile Include="Assets\S-Type\Scripts\BackgroundScrollScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\BackgroundScrollScript1.cs" />
+     <Compile Include="Assets\S-Type\Scripts\BackgroundSnapScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\CameraRenderingOptionsScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Boss3.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Boss3Body.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy1.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy10.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy1Group.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy2.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy3.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy4.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy5.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy6.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy7.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy8.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\Enemy9.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Enemy Scripts\EnemyGroup.cs" />
+     <Compile Include="Assets\S-Type\Scripts\EventScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\ExplosionScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\GameStatus.cs" />
+     <Compile Include="Assets\S-Type\Scripts\ImageScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\ImpactScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\ItemUpgrade.cs" />
+     <Compile Include="Assets\S-Type\Scripts\ItemUpgradeScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\MainScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\ButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\ContinueGameButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\ExitGameButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\InvincibilityButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\LeaderboardButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\LeaderboardTransition.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\LevelButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\LivesButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\MenuScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\SpeedLevelButton.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\StartGameButtonScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Menu Scripts\WeaponTypeButton.cs" />
+     <Compile Include="Assets\S-Type\Scripts\MusicStartScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\ObjectPoolerScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\OptionScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\PlayerScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Projectile Scripts\EnemyCharge.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Projectile Scripts\EnemyLaserProjectile.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Projectile Scripts\EnemyProjectileScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Projectile Scripts\LaserProjectile.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Projectile Scripts\PlayerProjectileScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Projectile Scripts\ProjectileScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Projectile Scripts\SpeedupProjectile.cs" />
+     <Compile Include="Assets\S-Type\Scripts\SpriteControllerDictionaryScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\UiScoreScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Weapon Scripts\EnemyWeapon.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Weapon Scripts\PlayerWeaponScript.cs" />
+     <Compile Include="Assets\S-Type\Scripts\Weapon Scripts\WeaponScript.cs" />
+     <None Include="Assets\S-Type\JustinsFolder\stg_basic_pics\document_and_picturelist\readme.txt" />
+     <None Include="Assets\S-Type\JustinsFolder\enemypack001Yellow\document_and_picturelist\readme.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

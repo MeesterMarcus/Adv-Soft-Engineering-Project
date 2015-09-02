@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - BossHealth
+  - BossName
+  - Score
+  - ChargeBar
+  - CameraEdge
+  - Laser
+  - Branch
+  - InsertDB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - ParticlesStar Layer
+  - UI Layer
+  - InputRaycast Layer
+  - Ground Layer
+  - Enemy Layer
+  - Camera Layer
+  - Debug Layer
+  - CameraEdge Layer
+  - Player Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 77488843
+    locked: 0

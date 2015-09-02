@@ -1,0 +1,856 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &124702
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 497872}
+  - 114: {fileID: 11411146}
+  m_Layer: 0
+  m_Name: EnemyWeapon Boss3 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &144512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 484676}
+  - 114: {fileID: 11440608}
+  m_Layer: 0
+  m_Name: EnemyWeapon Boss2b
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &148870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 459054}
+  - 114: {fileID: 11471064}
+  m_Layer: 0
+  m_Name: EnemyWeapon Enemy6 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &154150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 405012}
+  - 114: {fileID: 11412542}
+  m_Layer: 0
+  m_Name: EnemyWeapon Plain
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &156684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 431358}
+  - 114: {fileID: 11469194}
+  m_Layer: 0
+  m_Name: EnemyWeapon Boss3 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &167892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 408690}
+  - 114: {fileID: 11430774}
+  m_Layer: 0
+  m_Name: EnemyWeapon Boss3 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &170646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 481060}
+  - 114: {fileID: 11417416}
+  m_Layer: 0
+  m_Name: EnemyWeapon Enemy6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &182066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 453912}
+  - 114: {fileID: 11405802}
+  m_Layer: 0
+  m_Name: EnemyWeapon Boss3 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &184918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 422094}
+  - 114: {fileID: 11430472}
+  m_Layer: 0
+  m_Name: EnemyWeapon Boss2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &190608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 487596}
+  m_Layer: 0
+  m_Name: EnemyWeapon Container
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &405012
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154150}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6910429, y: -2.80606055, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 0
+--- !u!4 &408690
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 167892}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6910429, y: -2.80606055, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 3
+--- !u!4 &422094
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184918}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .958800077, y: -3.10630131, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 7
+--- !u!4 &431358
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156684}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6910429, y: -2.80606055, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 4
+--- !u!4 &453912
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 182066}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6910429, y: -2.80606055, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 5
+--- !u!4 &459054
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148870}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6910429, y: -2.80606055, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 2
+--- !u!4 &481060
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 170646}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6910429, y: -2.80606055, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 1
+--- !u!4 &484676
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144512}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .958800077, y: -3.10630131, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 8
+--- !u!4 &487596
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 190608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.64984298, y: -.300240695, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 405012}
+  - {fileID: 481060}
+  - {fileID: 459054}
+  - {fileID: 408690}
+  - {fileID: 431358}
+  - {fileID: 453912}
+  - {fileID: 497872}
+  - {fileID: 422094}
+  - {fileID: 484676}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &497872
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124702}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6910429, y: -2.80606055, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 487596}
+  m_RootOrder: 6
+--- !u!114 &11405802
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 182066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 135
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 1
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 225
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 2
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 315
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 3
+  firing: 
+--- !u!114 &11411146
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 0
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  firing: 
+--- !u!114 &11412542
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 154150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  firing: 
+--- !u!114 &11417416
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 170646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  firing: 
+--- !u!114 &11430472
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  firing: 
+--- !u!114 &11430774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 167892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 15
+    rotation: -15
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -15
+    rotation: 15
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -30
+    rotation: 30
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 30
+    rotation: -30
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: -45
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -45
+    rotation: 45
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  firing: 
+--- !u!114 &11440608
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: -45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  firing: 
+--- !u!114 &11469194
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 45
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 135
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 1
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 225
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 2
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 315
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: .5
+    delay: 0
+    fired: 0
+    power: 1
+    type: 3
+  firing: 
+--- !u!114 &11471064
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bc41e0fc704e4b820474652447266, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaxDirection: 0
+  laserMinDirection: 0
+  laserDirection: 0
+  turnSpeed: 0
+  weaponPools:
+  - {fileID: 0}
+  projectiles:
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 2
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  - offset: {x: 0, y: 0, z: 0}
+    direction: 0
+    rotation: 0
+    charge: 0
+    color: {r: 1, g: 1, b: 1, a: 1}
+    speed: 1
+    delay: 0
+    fired: 0
+    power: 1
+    type: 0
+  firing: 
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 190608}
+  m_IsPrefabParent: 1

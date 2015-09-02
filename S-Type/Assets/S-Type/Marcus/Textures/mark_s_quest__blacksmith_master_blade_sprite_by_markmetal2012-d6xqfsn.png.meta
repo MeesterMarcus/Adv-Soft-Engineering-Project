@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: f710d1587174e420b93c8f6b726560ac
+timeCreated: 1438718154
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_0
+    21300002: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_1
+    21300004: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_2
+    21300006: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_3
+    21300008: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_4
+    21300010: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_5
+    21300012: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_6
+    21300014: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 87
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 90
+        width: 16
+        height: 51
+      alignment: 9
+      pivot: {x: .277183056, y: .0514545813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 83
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 58
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mark_s_quest__blacksmith_master_blade_sprite_by_markmetal2012-d6xqfsn_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 14
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

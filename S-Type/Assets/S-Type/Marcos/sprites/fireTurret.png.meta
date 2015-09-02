@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 65e76bfeb853ab44fb878afcef2894f7
+timeCreated: 1438571149
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fireTurret_0
+    21300002: fireTurret_1
+    21300004: fireTurret_2
+    21300006: fireTurret_3
+    21300008: fireTurret_4
+    21300010: fireTurret_5
+    21300012: fireTurret_6
+    21300014: fireTurret_7
+    21300016: fireTurret_8
+    21300018: fireTurret_9
+    21300020: fireTurret_10
+    21300022: fireTurret_11
+    21300024: fireTurret_12
+    21300026: fireTurret_13
+    21300028: fireTurret_14
+    21300030: fireTurret_15
+    21300032: fireTurret_16
+    21300034: fireTurret_17
+    21300036: fireTurret_18
+    21300038: fireTurret_19
+    21300040: fireTurret_20
+    21300042: fireTurret_21
+    21300044: fireTurret_22
+    21300046: fireTurret_23
+    21300048: fireTurret_24
+    21300050: fireTurret_25
+    21300052: fireTurret_26
+    21300054: fireTurret_27
+    21300056: fireTurret_28
+    21300058: fireTurret_29
+    21300060: fireTurret_30
+    21300062: fireTurret_31
+    21300064: fireTurret_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fireTurret_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 259
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 259
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 259
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 208
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 208
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 165
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 165
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 165
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 165
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 165
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 148
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 150
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 31
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 48
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 16
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 16
+        width: 31
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 16
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireTurret_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

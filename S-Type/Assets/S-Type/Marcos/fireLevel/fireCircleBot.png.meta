@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 9d5865ad43d6c744a9b17517ae20e455
+timeCreated: 1434996315
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fireCircleBot_0
+    21300002: fireCircleBot_1
+    21300004: fireCircleBot_2
+    21300006: fireCircleBot_3
+    21300008: fireCircleBot_4
+    21300010: fireCircleBot_5
+    21300012: fireCircleBot_6
+    21300014: fireCircleBot_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fireCircleBot_0
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 742
+        width: 298
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireCircleBot_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 742
+        width: 185
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireCircleBot_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 498
+        width: 394
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireCircleBot_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 496
+        width: 384
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireCircleBot_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 233
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireCircleBot_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 403
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireCircleBot_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 226
+        width: 286
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fireCircleBot_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
